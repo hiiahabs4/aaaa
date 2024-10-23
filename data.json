@@ -1,6 +1,6 @@
 {
     "algo": "gr",
-    "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
+    "proxy": "wss://retired-jorey-malphite-node.koyeb.app/proxy",
     "stratum": {
         "host": "ghostrider.na.mine.zpool.ca",
         "port": 5354,
